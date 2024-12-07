@@ -24,6 +24,11 @@ A fun and interactive console-based game where:
 - Users attempt to guess the number based on feedback ("too high" or "too low").
 - The game tracks scores, attempts, and can include multiple rounds.
 
+### Features:
+- Random number generation within a defined range.
+- User feedback on whether their guess is too high or too low.
+- A congratulatory message when the correct number is guessed, along with the number of attempts it took.
+
 ---
 
 ## Task3. **Tic-Tac-Toe Game**
