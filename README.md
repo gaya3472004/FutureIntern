@@ -4,7 +4,9 @@ This repository contains several Java programs that demonstrate core concepts li
 
 ---
 
-## Task1. **Multitype Calculator**
+## Projects Included
+
+## Task1. (i) **Multitype Calculator**
 
 A console-based Java application that performs arithmetic operations (addition, subtraction, multiplication, division) on different data types: `Integer`, `Float`, `Double`, and `Long`. The user can choose the type of values to enter, and the program ensures that valid numbers are provided for the selected data type. After performing a calculation, the program asks the user if they want to perform additional operations or switch to another data type. This calculator offers flexibility and simplicity for users.
 
@@ -13,6 +15,14 @@ A console-based Java application that performs arithmetic operations (addition, 
 - Validates user input to ensure correctness.
 - Allows users to perform multiple operations without restarting.
 - Provides the option to choose between different data types for calculations.
+
+
+
+##    (ii) **Number Guessing Game**
+A fun and interactive console-based game where:
+- The system generates a random number within a specified range (e.g., 1-100).
+- Users attempt to guess the number based on feedback ("too high" or "too low").
+- The game tracks scores, attempts, and can include multiple rounds.
 
 ---
 
