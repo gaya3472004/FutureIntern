@@ -6,7 +6,7 @@ This repository contains several Java programs that demonstrate core concepts li
 
 ## Projects Included
 
-## Task1. (i) **Multitype Calculator**
+## Task1. (i) ** Calculator**
 
 A console-based Java application that performs arithmetic operations (addition, subtraction, multiplication, division) on different data types: `Integer`, `Float`, `Double`, and `Long`. The user can choose the type of values to enter, and the program ensures that valid numbers are provided for the selected data type. After performing a calculation, the program asks the user if they want to perform additional operations or switch to another data type. This calculator offers flexibility and simplicity for users.
 
